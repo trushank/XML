@@ -1,0 +1,756 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><lot>
+	<wing name="1">
+		<floor number="1">
+			<slot type="Truck" vacant="No">
+				<number value="111">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="112">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="113">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="114">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="115">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1111">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1112">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1113">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1114">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1115">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1151">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1152">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1153">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1154">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1155">
+				</number>
+			</slot>
+		</floor>
+		<floor number="2">
+			<slot type="Truck" vacant="No">
+				<number value="121">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="122">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="123">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="124">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="125">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1211">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1212">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1213">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1214">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1215">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1251">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1252">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1253">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1254">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1255">
+				</number>
+			</slot>
+		</floor>
+		<floor number="3">
+			<slot type="Truck" vacant="No">
+				<number value="131">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="132">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="133">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="134">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="135">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1311">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1312">
+				</number>
+			</slot>	
+			<slot type="Car" vacant="No">
+				<number value="1313">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1314">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="1315">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1351">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1352">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1353">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1354">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="1355">
+				</number>
+			</slot>
+		</floor>
+	</wing>
+	
+	<wing name="2">
+		<floor number="1">
+			<slot type="Truck" vacant="No">
+				<number value="211">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="212">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="213">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="214">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="215">
+				</number>
+			</slot>
+			
+			<slot type="Car" vacant="No">
+				<number value="2112">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2113">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2114">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2115">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2151">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2152">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2153">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2154">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2155">
+				</number>
+			</slot>
+		
+		        
+		        <slot type="Car" vacant="Yes"><number value="2111"/></slot></floor>
+		<floor number="2">
+			<slot type="Truck" vacant="No">
+				<number value="221">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="222">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="223">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="224">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="225">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2211">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2212">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2213">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2214">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2215">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2251">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2252">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2253">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2254">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2255">
+				</number>
+			</slot>
+		</floor>
+		<floor number="3">
+			<slot type="Truck" vacant="No">
+				<number value="231">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="232">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="233">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="234">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="235">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2311">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2312">
+				</number>
+			</slot>	
+			<slot type="Car" vacant="No">
+				<number value="2313">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2314">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="2315">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2351">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2352">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2353">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2354">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="2355">
+				</number>
+			</slot>
+		</floor>
+	</wing>
+	
+	<wing name="3">
+		<floor number="1">
+			<slot type="Truck" vacant="No">
+				<number value="311">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="312">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="313">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="314">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="315">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3111">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3112">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3113">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3114">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3115">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3151">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3152">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3153">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3154">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3155">
+				</number>
+			</slot>
+		</floor>
+		<floor number="2">
+			<slot type="Truck" vacant="No">
+				<number value="321">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="322">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="323">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="324">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="325">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3211">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3212">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3213">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3214">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3215">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3251">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3252">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3253">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3254">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3255">
+				</number>
+			</slot>
+		</floor>
+		<floor number="3">
+			<slot type="Truck" vacant="No">
+				<number value="331">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="332">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="333">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="334">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="335">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3311">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3312">
+				</number>
+			</slot>	
+			<slot type="Car" vacant="No">
+				<number value="3313">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3314">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="3315">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3351">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3352">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3353">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3354">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="3355">
+				</number>
+			</slot>
+		</floor>
+	</wing>
+	
+	<wing name="4">
+		<floor number="1">
+			<slot type="Truck" vacant="No">
+				<number value="411">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="412">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="413">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="414">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="415">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4111">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4112">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4113">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4114">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4115">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4151">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4152">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4153">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4154">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4155">
+				</number>
+			</slot>
+		</floor>
+		<floor number="2">
+			<slot type="Truck" vacant="No">
+				<number value="421">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="422">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="423">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="424">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="425">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4211">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4212">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4213">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4214">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4215">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4251">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4252">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4253">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4254">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4255">
+				</number>
+			</slot>
+		</floor>
+		<floor number="3">
+			<slot type="Truck" vacant="No">
+				<number value="431">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="432">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="433">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="434">
+				</number>
+			</slot>
+			<slot type="Truck" vacant="No">
+				<number value="435">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4311">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4312">
+				</number>
+			</slot>	
+			<slot type="Car" vacant="No">
+				<number value="4313">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4314">
+				</number>
+			</slot>
+			<slot type="Car" vacant="No">
+				<number value="4315">
+				</number>
+			</slot>	
+			<slot type="Bike" vacant="No">
+				<number value="4351">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4352">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4353">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4354">
+				</number>
+			</slot>
+			<slot type="Bike" vacant="No">
+				<number value="4355">
+				</number>
+			</slot>
+		</floor>
+	</wing>
+</lot>

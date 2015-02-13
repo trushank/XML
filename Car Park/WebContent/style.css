@@ -1,0 +1,51 @@
+body 
+{
+	background-color:#f1f1f1;
+	font-family: georgia,sans-serif;
+	color:#333;
+	margin:0;
+	padding:0;
+	
+}
+
+ 
+
+#wrapper 
+{
+	width:960px;
+	background-color:#f8f8f8;
+	margin:0 auto;
+	border-left:1px solid #ccc;
+	border-right:1px solid #ccc;
+}
+
+#header 
+{
+	background-color:#000000;
+	width:960px;
+	height:135px;
+	margin:0 auto;
+	margin-bottom:25px;
+	border-bottom:1px solid #ccc;
+	border-top:1px solid #ccc;
+}
+
+
+ 
+#content 
+{
+	width:675px;
+	float:left;
+	padding:10px;
+}
+
+
+
+
+#submit 
+{ 
+	font-size: 1em;
+	padding: 5px; 
+	font-weight: bold; 
+	font-face: 'georgia';
+}

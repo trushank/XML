@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><users>
+<user>
+	<name>Siddharth </name>
+	<contact>585-441-211</contact>
+	<vehicle type="car">
+		<vehicle_no>3421 </vehicle_no>
+		<vehicle_make>Mercedes Benz</vehicle_make>
+	</vehicle>
+</user>
+
+
+<user>
+<name>Trushank</name>
+<contact>678-336-123</contact>
+<vehicle type="Truck">
+	<vehicle_no>1845</vehicle_no>
+	<vehicle_make>Dodge</vehicle_make>
+</vehicle>
+</user>
+<user>
+<name>Raj</name>
+<contact>585-323-232</contact>
+<vehicle type="car">
+	<vehicle_no>4564 </vehicle_no>
+	<vehicle_make>Mercedes</vehicle_make>
+</vehicle>
+</user>
+<user>
+<name>Trushank</name>
+<dob>09/23/1990</dob>
+<contact>5857123242</contact>
+<email>raghuveermadhala@gmail.com</email>
+<vehicle type="Truck">
+<vehicle_no>123456</vehicle_no>
+<make>Toyota</make>
+<model>Supra</model>
+</vehicle>
+</user>
+<user>
+<name>Siddhu</name>
+<dob>09/23/1990</dob>
+<contact>5857123242</contact>
+<email>raghuveermadhala@gmail.com</email>
+<vehicle type="Truck">
+<vehicle_no>123456</vehicle_no>
+<make>Toyota</make>
+<model>Supra</model>
+</vehicle>
+</user>
+<user>
+<name>Raghu Toyota</name>
+<dob>09/23/1990</dob>
+<contact>5857123242</contact>
+<email>raghuveermadhala@gmail.com</email>
+<vehicle type="Truck">
+<vehicle_no>123456</vehicle_no>
+<make>Toyota</make>
+<model>Supra</model>
+</vehicle>
+</user>
+<user>
+<name>Shahrukh Khan</name>
+<dob>09/23/1990</dob>
+<contact>5857123242</contact>
+<email>raghuveermadhala@gmail.com</email>
+<vehicle type="Car">
+<vehicle_no>1234</vehicle_no>
+<make>Ferrari</make>
+<model>Supra</model>
+</vehicle>
+</user>
+</users>

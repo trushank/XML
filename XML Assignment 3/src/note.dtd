@@ -1,0 +1,10 @@
+<!ELEMENT list             (books*)>
+<!ELEMENT books				(book*)>          
+<!ELEMENT book               (text,author,title,publisher,isbn,year)>
+<!ATTLIST books text      	CDATA #IMPLIED>
+<!ELEMENT text              (#PCDATA)>
+<!ELEMENT author              (#PCDATA)>
+<!ELEMENT title              (#PCDATA)>
+<!ELEMENT publisher              (#PCDATA)>
+<!ELEMENT isbn              (#PCDATA)>
+<!ELEMENT year              (#PCDATA)>

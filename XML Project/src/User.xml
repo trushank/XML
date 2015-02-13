@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user>
+	<name>Siddharth </name>
+	<contact>585-441-211</contact>
+	<vehicle type="car">
+		<vehicle_no>3421 </vehicle_no>
+		<vehicle_make>Mercedes Benz</vehicle_make>
+	</vehicle>
+</user>
+<user>
+	<name>Sourabh </name>
+	<contact>585-442-232</contact>
+	<vehicle type="car">
+		<vehicle_no>8926 </vehicle_no>
+		<vehicle_make>BMW</vehicle_make>
+	</vehicle>
+</user>
+<user>
+<name>Raghuveer</name>
+<contact>678-223-232</contact>
+<vehicle type="bike">
+	<vehicle_no>2345 </vehicle_no>
+	<vehicle_make>Ford</vehicle_make>
+</vehicle>
+</user>
+<user>
+<name>Trushank</name>
+<contact>678-336-123</contact>
+<vehicle type="Truck">
+	<vehicle_no>1845 </vehicle_no>
+	<vehicle_make>Dodge</vehicle_make>
+</vehicle>
+</user>
+<user>
+<name>Raj</name>
+<contact>585-323-232</contact>
+<vehicle type="car">
+	<vehicle_no>4564 </vehicle_no>
+	<vehicle_make>Mercedes</vehicle_make>
+</vehicle>
+</user>
+</users>
+

@@ -1,0 +1,2 @@
+for $x in doc("movie.xml")/mdb/movies/movie
+return ("#",data($x/@id),"#",data($x/title),"#",data($x/year),"#",data($x/genres),"#",data($x/plot),"$")

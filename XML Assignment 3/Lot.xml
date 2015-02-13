@@ -1,0 +1,2847 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?><lot>
+<wing name="1">
+<floor number="1">
+
+<slot type="Car" vacant="Yes">
+<number value="1112">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1113">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1114">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1115">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1116">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1117">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1118">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1119">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1120">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1121">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1122">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1123">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1124">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1125">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1126">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1127">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1128">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1129">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1130">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1131">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1132">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1133">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1134">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1135">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1136">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1137">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1138">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1139">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1140">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1141">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1142">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1143">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1144">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1145">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1146">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1147">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1148">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1149">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1150">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1151">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1152">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1153">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1154">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1155">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1156">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1157">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1158">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1159">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1160">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes"><number value="113"/></slot><slot type="Truck" vacant="Yes"><number value="114"/></slot><slot type="Truck" vacant="Yes"><number value="115"/></slot><slot type="Truck" vacant="Yes"><number value="116"/></slot><slot type="Truck" vacant="Yes"><number value="117"/></slot><slot type="Truck" vacant="Yes"><number value="118"/></slot><slot type="Truck" vacant="Yes"><number value="119"/></slot><slot type="Truck" vacant="Yes"><number value="1110"/></slot><slot type="Truck" vacant="No"><number value="111"><vehicle time="1360479182747">123456</vehicle></number></slot><slot type="Truck" vacant="No"><number value="112"><vehicle time="1360479230670">1845</vehicle></number></slot><slot type="Car" vacant="Yes"><number value="1111"/></slot></floor>
+<floor number="2">
+<slot type="Truck" vacant="Yes">
+<number value="121">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="122">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="123">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="124">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="125">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="126">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="127">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="128">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="129">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="1210">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1211">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1212">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1213">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1214">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1215">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1216">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1217">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1218">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1219">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1220">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1221">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1222">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1223">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1224">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1225">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1226">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1227">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1228">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1229">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1230">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1231">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1232">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1233">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1234">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1235">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1236">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1237">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1238">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1239">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1240">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1241">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1242">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1243">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1244">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1245">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1246">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1247">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1248">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1249">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1250">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1251">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1252">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1253">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1254">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1255">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1256">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1257">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1258">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1259">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1260">
+</number>
+</slot>
+</floor>
+<floor number="3">
+<slot type="Truck" vacant="Yes">
+<number value="131">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="132">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="133">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="134">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="135">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="136">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="137">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="138">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="139">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="1310">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1311">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1312">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1313">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1314">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1315">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1316">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1317">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1318">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1319">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1320">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1321">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1322">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1323">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1324">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1325">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1326">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1327">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1328">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1329">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1330">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1331">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1332">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1333">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1334">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1335">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1336">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1337">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1338">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1339">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1340">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1341">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1342">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1343">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1344">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1345">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1346">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1347">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1348">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1349">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="1350">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1351">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1352">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1353">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1354">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1355">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1356">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1357">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1358">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1359">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="1360">
+</number>
+</slot>
+</floor>
+</wing>
+
+<wing name="2">
+<floor number="1">
+<slot type="Truck" vacant="Yes">
+<number value="211">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="212">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="213">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="214">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="215">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="216">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="217">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="218">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="219">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="2110">
+</number>
+</slot>
+
+<slot type="Car" vacant="Yes">
+<number value="2112">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2113">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2114">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2115">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2116">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2117">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2118">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2119">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2120">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2121">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2122">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2123">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2124">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2125">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2126">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2127">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2128">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2129">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2130">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2131">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2132">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2133">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2134">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2135">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2136">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2137">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2138">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2139">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2140">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2141">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2142">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2143">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2144">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2145">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2146">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2147">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2148">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2149">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2150">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2151">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2152">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2153">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2154">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2155">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2156">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2157">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2158">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2159">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2160">
+</number>
+</slot>
+<slot type="Car" vacant="Yes"><number value="2111"/></slot></floor>
+<floor number="2">
+<slot type="Truck" vacant="Yes">
+<number value="221">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="222">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="223">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="224">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="225">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="226">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="227">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="228">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="229">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="2210">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2211">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2212">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2213">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2214">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2215">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2216">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2217">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2218">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2219">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2220">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2221">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2222">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2223">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2224">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2225">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2226">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2227">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2228">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2229">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2230">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2231">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2232">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2233">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2234">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2235">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2236">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2237">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2238">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2239">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2240">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2241">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2242">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2243">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2244">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2245">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2246">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2247">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2248">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2249">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2250">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2251">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2252">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2253">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2254">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2255">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2256">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2257">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2258">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2259">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2260">
+</number>
+</slot>
+</floor>
+<floor number="3">
+<slot type="Truck" vacant="Yes">
+<number value="231">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="232">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="233">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="234">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="235">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="236">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="237">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="238">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="239">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="2310">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2311">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2312">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2313">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2314">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2315">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2316">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2317">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2318">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2319">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2320">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2321">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2322">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2323">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2324">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2325">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2326">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2327">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2328">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2329">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2330">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2331">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2332">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2333">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2334">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2335">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2336">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2337">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2338">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2339">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2340">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2341">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2342">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2343">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2344">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2345">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2346">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2347">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2348">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2349">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="2350">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2351">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2352">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2353">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2354">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2355">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2356">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2357">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2358">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2359">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="2360">
+</number>
+</slot>
+</floor>
+</wing>
+
+<wing name="3">
+<floor number="1">
+<slot type="Truck" vacant="Yes">
+<number value="311">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="312">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="313">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="314">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="315">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="316">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="317">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="318">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="319">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="3110">
+</number>
+</slot>
+
+
+
+
+
+
+
+
+<slot type="Car" vacant="Yes">
+<number value="3119">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3120">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3121">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3122">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3123">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3124">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3125">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3126">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3127">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3128">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3129">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3130">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3131">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3132">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3133">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3134">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3135">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3136">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3137">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3138">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3139">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3140">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3141">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3142">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3143">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3144">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3145">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3146">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3147">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3148">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3149">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3150">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3151">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3152">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3153">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3154">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3155">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3156">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3157">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3158">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3159">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3160">
+</number>
+</slot>
+<slot type="Car" vacant="Yes"><number value="3111"/></slot><slot type="Car" vacant="Yes"><number value="3112"/></slot><slot type="Car" vacant="Yes"><number value="3113"/></slot><slot type="Car" vacant="Yes"><number value="3114"/></slot><slot type="Car" vacant="Yes"><number value="3115"/></slot><slot type="Car" vacant="Yes"><number value="3116"/></slot><slot type="Car" vacant="Yes"><number value="3117"/></slot><slot type="Car" vacant="No"><number value="3118"><vehicle time="1360479859882">1234</vehicle></number></slot></floor>
+<floor number="2">
+<slot type="Truck" vacant="Yes">
+<number value="321">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="322">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="323">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="324">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="325">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="326">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="327">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="328">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="329">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="3210">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3211">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3212">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3213">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3214">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3215">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3216">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3217">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3218">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3219">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3220">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3221">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3222">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3223">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3224">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3225">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3226">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3227">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3228">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3229">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3230">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3231">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3232">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3233">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3234">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3235">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3236">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3237">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3238">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3239">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3240">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3241">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3242">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3243">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3244">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3245">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3246">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3247">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3248">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3249">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3250">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3251">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3252">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3253">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3254">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3255">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3256">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3257">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3258">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3259">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3260">
+</number>
+</slot>
+</floor>
+<floor number="3">
+<slot type="Truck" vacant="Yes">
+<number value="331">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="332">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="333">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="334">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="335">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="336">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="337">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="338">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="339">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="3310">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3311">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3312">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3313">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3314">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3315">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3316">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3317">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3318">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3319">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3320">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3321">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3322">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3323">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3324">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3325">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3326">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3327">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3328">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3329">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3330">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3331">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3332">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3333">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3334">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3335">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3336">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3337">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3338">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3339">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3340">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3341">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3342">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3343">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3344">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3345">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3346">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3347">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3348">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3349">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="3350">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3351">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3352">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3353">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3354">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3355">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3356">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3357">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3358">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3359">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="3360">
+</number>
+</slot>
+</floor>
+</wing>
+
+<wing name="4">
+<floor number="1">
+<slot type="Truck" vacant="Yes">
+<number value="411">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="412">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="413">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="414">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="415">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="416">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="417">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="418">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="419">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="4110">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4111">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4112">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4113">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4114">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4115">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4116">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4117">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4118">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4119">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4120">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4121">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4122">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4123">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4124">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4125">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4126">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4127">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4128">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4129">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4130">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4131">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4132">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4133">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4134">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4135">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4136">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4137">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4138">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4139">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4140">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4141">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4142">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4143">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4144">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4145">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4146">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4147">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4148">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4149">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4150">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4151">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4152">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4153">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4154">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4155">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4156">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4157">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4158">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4159">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4160">
+</number>
+</slot>
+</floor>
+<floor number="2">
+<slot type="Truck" vacant="Yes">
+<number value="421">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="422">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="423">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="424">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="425">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="426">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="427">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="428">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="429">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="4210">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4211">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4212">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4213">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4214">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4215">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4216">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4217">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4218">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4219">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4220">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4221">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4222">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4223">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4224">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4225">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4226">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4227">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4228">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4229">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4230">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4231">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4232">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4233">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4234">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4235">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4236">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4237">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4238">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4239">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4240">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4241">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4242">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4243">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4244">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4245">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4246">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4247">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4248">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4249">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4250">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4251">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4252">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4253">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4254">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4255">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4256">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4257">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4258">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4259">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4260">
+</number>
+</slot>
+</floor>
+<floor number="3">
+<slot type="Truck" vacant="Yes">
+<number value="431">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="432">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="433">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="434">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="435">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="436">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="437">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="438">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="439">
+</number>
+</slot>
+<slot type="Truck" vacant="Yes">
+<number value="4310">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4311">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4312">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4313">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4314">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4315">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4316">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4317">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4318">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4319">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4320">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4321">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4322">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4323">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4324">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4325">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4326">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4327">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4328">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4329">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4330">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4331">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4332">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4333">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4334">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4335">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4336">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4337">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4338">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4339">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4340">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4341">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4342">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4343">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4344">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4345">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4346">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4347">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4348">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4349">
+</number>
+</slot>
+<slot type="Car" vacant="Yes">
+<number value="4350">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4351">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4352">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4353">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4354">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4355">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4356">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4357">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4358">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4359">
+</number>
+</slot>
+<slot type="Bike" vacant="Yes">
+<number value="4360">
+</number>
+</slot>
+</floor>
+</wing>
+</lot>

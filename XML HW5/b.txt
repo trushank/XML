@@ -1,0 +1,2 @@
+for $x in doc("movie.xml")/mdb/performers/performer
+return ("#",data($x/@id),"#",data($x/name),"#",data($x/dob),"#",data($x/pob),"$")
